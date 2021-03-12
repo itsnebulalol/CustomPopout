@@ -8,4 +8,4 @@ and then:
 ```git clone https://github.com/CloneyInnit/BetterBG/```
 
 <h3 align="center">How do I get a custom background?</h3>
-Just apply (here!)[https://discord.gg/gMJYwEjebF]
+Just apply <a href="https://discord.gg/gMJYwEjebF">here!</a>(here!)
