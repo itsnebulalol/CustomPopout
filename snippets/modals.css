@@ -27,7 +27,7 @@ other contributors to USRBG.
   height: var(--usrbg-modal-height);
   opacity:.5;
   pointer-events:none;
-  background: var(--user-background) center/cover;
+  background: var(--user-background) center/cover no-repeat;
   -webkit-mask: linear-gradient(black, transparent 80%);
 }
 
