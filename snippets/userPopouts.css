@@ -92,9 +92,3 @@ other contributors to USRBG.
           backdrop-filter: blur(5px);
   border-radius: 14px;
 }
-
-.userPopout-3XzG_A  .header-2BwW8b,
-.userPopout-3XzG_A  .scroller-2FKFPG,
-.userPopout-3XzG_A  .footer-1fjuF6 {
-	z-index: 1;
-}
