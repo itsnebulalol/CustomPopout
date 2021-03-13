@@ -41,11 +41,13 @@ other contributors to USRBG.
 .topSectionSpotify-1lI0-P {
 	background-color: #202225 !important;
   border-radius: 14px;
+  background-image: var(--user-background);
 }
 
 .topSectionPlaying-1J5E4n {
   background-color: #202225 !important;
   border-radius: 14px;
+  background-image: var(--user-background);
 }
 
 .userPopout-3XzG_A .wrapper-3t9DeA::after {
@@ -70,6 +72,7 @@ other contributors to USRBG.
 .topSectionNormal-2-vo2m {
   background-color: #202225 !important;
   border-radius: 14px;
+  background-image: var(--user-background);
 }
 .userPopout-3XzG_A .headerNormal-T_seeN,
 .userPopout-3XzG_A .headerSpotify-zpWxgT,
