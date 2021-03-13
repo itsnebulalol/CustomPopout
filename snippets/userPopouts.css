@@ -52,6 +52,24 @@ other contributors to USRBG.
   margin: 10px 10px 10px 10px;
   max-height: 160px;
 }
+.userPopout-3XzG_A .wrapper-3t9DeA::after {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  pointer-events: none;
+  opacity: 1;
+  filter: brightness(0.6);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: var(--user-popout-position) center;
+  background-image: var(--user-background);
+  border-radius: var(--border-radius);
+  -webkit-mask-image: linear-gradient(#000, #000);
+}
 
 .topSectionSpotify-1lI0-P {
 	background-color: #202225 !important;
@@ -74,3 +92,4 @@ other contributors to USRBG.
           backdrop-filter: blur(5px);
   border-radius: 14px;
 }
+
