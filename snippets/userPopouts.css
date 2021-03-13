@@ -15,7 +15,7 @@ other contributors to USRBG.
 	transform:translateZ(0);
 }
 
-.userPopout-3XzG_A .wrapper-3t9DeA::after {
+/*.userPopout-3XzG_A .wrapper-3t9DeA::after {
 	content: '';
 	position: fixed;
 	top: 0;
@@ -30,7 +30,7 @@ other contributors to USRBG.
 	background-position: var(--user-popout-position) center;
 	background-image: var(--user-background);
 	-webkit-mask-image: linear-gradient(#000, transparent);
-}
+}*/
 
 
 
@@ -54,7 +54,7 @@ other contributors to USRBG.
   margin: 10px 10px 10px 10px;
   max-height: 160px;
 }
-/*.userPopout-3XzG_A .wrapper-3t9DeA::after {
+.userPopout-3XzG_A .wrapper-3t9DeA::after {
   content: "";
   position: fixed;
   top: 0;
@@ -69,7 +69,7 @@ other contributors to USRBG.
   background-repeat: no-repeat;
   background-position: var(--user-popout-position) center;
   background-image: var(--user-background);
-  border-radius: var(--border-radius);
+  border-radius: 14px;
   -webkit-mask-image: linear-gradient(#000, #000);
 }
 
@@ -93,4 +93,4 @@ other contributors to USRBG.
 	-webkit-backdrop-filter: blur(5px);
           backdrop-filter: blur(5px);
   border-radius: 14px;
-}*/
+}
