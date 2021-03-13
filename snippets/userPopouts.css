@@ -53,3 +53,18 @@ other contributors to USRBG.
   background-color: #202225 !important;
   border-radius: 14px;
 }
+.userPopout-3XzG_A .headerNormal-T_seeN,
+.userPopout-3XzG_A .headerSpotify-zpWxgT,
+.userPopout-3XzG_A .headerXbox-3G-4PF,
+.userPopout-3XzG_A .headerStreaming-2FjmGz,
+.userPopout-3XzG_A .headerPlaying-j0WQBV {
+  background-color: #202225;
+}
+
+.userPopout-3XzG_A .headerNormal-T_seeN .activity-11LB_k,
+.userPopout-3XzG_A .headerSpotify-zpWxgT .activity-11LB_k,
+.userPopout-3XzG_A .headerXbox-3G-4PF .activity-11LB_k,
+.userPopout-3XzG_A .headerStreaming-2FjmGz .activity-11LB_k,
+.userPopout-3XzG_A .headerPlaying-j0WQBV .activity-11LB_k {
+  background-color: #2C2F3375;
+}
