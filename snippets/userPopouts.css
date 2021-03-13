@@ -34,6 +34,15 @@ other contributors to USRBG.
 
 
 
+.userPopout-3XzG_A .headerNormal-T_seeN,
+.userPopout-3XzG_A .headerSpotify-zpWxgT,
+.userPopout-3XzG_A .headerXbox-3G-4PF,
+.userPopout-3XzG_A .headerStreaming-2FjmGz,
+.userPopout-3XzG_A .headerPlaying-j0WQBV {
+  border-radius: 14px;
+  background-color: #202225;
+  background-image: var(--user-background);
+}
 
 .userPopout-3XzG_A .headerNormal-T_seeN .activity-11LB_k,
 .userPopout-3XzG_A .headerSpotify-zpWxgT .activity-11LB_k,
@@ -46,6 +55,7 @@ other contributors to USRBG.
   border-radius: 14px;
   margin: 10px 10px 10px 10px;
   max-height: 160px;
+  background-image: var(--user-background);
 }
 /*.userPopout-3XzG_A .wrapper-3t9DeA::after {
   content: "";
