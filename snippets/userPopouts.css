@@ -15,6 +15,23 @@ other contributors to USRBG.
 	transform:translateZ(0);
 }
 
+.userPopout-3XzG_A .wrapper-3t9DeA::after {
+	content: '';
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+	pointer-events: none;
+	opacity: .5;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: var(--user-popout-position) center;
+	background-image: var(--user-background);
+	-webkit-mask-image: linear-gradient(#000, transparent);
+}
+
 .userPopout-3XzG_A .headerNormal-T_seeN,
 .userPopout-3XzG_A .headerSpotify-zpWxgT,
 .userPopout-3XzG_A .headerXbox-3G-4PF,
