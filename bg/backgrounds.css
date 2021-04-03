@@ -1,28 +1,11 @@
-/*UserProfileBG*/
-/*Remake of usrbg*/
-/*The backgrounds database*/
+/*BG 'database'*/
 
 .userPopout-3XzG_A {
 	--user-popout-position: center;
 }
 
-/*CloneyInnit*/
-
-[user_by_bdfdb="729934422068953098"],
-[data-user-id="729934422068953098"] {
-	--user-background: url('https://i.imgur.com/Zdojm22.gif');
-}
-
-/*ItsJustJosh*/
-
-[user_by_bdfdb="362628885361197056"],
-[data-user-id="362628885361197056"] {
-    --user-background: url('https://i.imgur.com/bLjT5yC.png');
-}
-
-/*Harry#9999*/
-
-[user_by_bdfdb="428450288668508160"],
-[data-user-id="428450288668508160"] {
-    --user-background: url('https://cdn.discordapp.com/attachments/818142332641607712/820242623888752640/harry.png');
+/*Nebula#0550*/
+[user_by_bdfdb="600424503864066053"],
+[data-user-id="600424503864066053"] {
+	--user-background: url('https://i.imgur.com/MoB3J53.gif');
 }

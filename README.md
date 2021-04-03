@@ -1,4 +1,4 @@
-# BetterBG
+# CustomPopout
 <img align="center" height=340 weight=340 src="https://cdn.discordapp.com/attachments/818142332641607712/820221423586377738/betterbg.png"></img>
 ## A alternative to [usrbg by Discord-Custom-Covers](https://github.com/Discord-Custom-Covers/usrbg)
 ### Installation guide

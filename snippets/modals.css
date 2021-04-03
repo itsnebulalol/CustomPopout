@@ -11,8 +11,8 @@ You are allowed to use this in your theme
 without prior permission from me or any
 other contributors to USRBG.
 */
-@import url('https://cloneyinnit.github.io/BetterBG/bg/backgrounds.css');
-/*:root {
+@import url('https://raw.githubusercontent.com/itsnebulalol/CustomPopout/master/bg/backgrounds.css');
+:root {
   --usrbg-modal-x-offset:-34px; 
   --usrbg-modal-y-offset:-20px; 
   --usrbg-modal-width:600px; 
@@ -36,4 +36,4 @@ other contributors to USRBG.
 .activity-1ythUs {
   z-index:1;
   position:relative;
-}*/
+}
